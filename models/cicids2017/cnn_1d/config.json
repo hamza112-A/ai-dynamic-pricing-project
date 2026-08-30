@@ -1,0 +1,10 @@
+{
+  "n_features": 77,
+  "n_classes": 15,
+  "n_blocks": 3,
+  "filters": 64,
+  "kernel_size": 3,
+  "dropout": 0.3,
+  "pooling": "max",
+  "device": "cpu"
+}

@@ -1,0 +1,16 @@
+{
+    "strategy_name": "Genetic Algorithm (Fast)",
+    "total_revenue": 3300217.1975179175,
+    "test_revenue_raw": 137509.0498965799,
+    "bookings_made": 948,
+    "avg_price": 145.05174039723622,
+    "booking_rate": 0.632,
+    "population_size": 50,
+    "generations": 30,
+    "training_time_minutes": 0.002406462033589681,
+    "best_fitness": 317777.8945334425,
+    "optimization": {
+        "sample_size": 5000,
+        "mode": "FAST"
+    }
+}

@@ -1,0 +1,6 @@
+Strategy,Revenue per Booking ($),Total Bookings,Booking Rate (%),Improvement (%),Training Time
+Fixed Pricing,100.84,1900.0,63.3,0.0,0s
+Rule-Based,122.96,1900.0,63.3,21.9,0s
+Historical Average,98.95,1900.0,63.3,-1.9,0s
+DQN (RL),123.82,564.95,56.5,22.8,4.5min
+Genetic Algorithm,145.05,948.0,63.2,43.8,0.1s

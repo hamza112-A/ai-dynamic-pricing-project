@@ -1,0 +1,23 @@
+{
+  "Fixed Pricing": {
+    "total_revenue": 191596.9538,
+    "bookings_made": 1900,
+    "avg_price": 100.840502,
+    "booking_rate": 0.6333333333333333,
+    "strategy_name": "Fixed Pricing"
+  },
+  "Rule-Based": {
+    "total_revenue": 233617.1909834,
+    "bookings_made": 1900,
+    "avg_price": 122.95641630705262,
+    "booking_rate": 0.6333333333333333,
+    "strategy_name": "Rule-Based Pricing"
+  },
+  "Historical Average": {
+    "total_revenue": 188011.37060860748,
+    "bookings_made": 1900,
+    "avg_price": 98.95335295189871,
+    "booking_rate": 0.6333333333333333,
+    "strategy_name": "Historical Avg Pricing"
+  }
+}

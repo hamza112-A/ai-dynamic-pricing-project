@@ -1,0 +1,21 @@
+{
+    "strategy_name": "DQN Agent (Super Fast)",
+    "mean_revenue_per_episode": 71725.8699912704,
+    "mean_bookings_per_episode": 551.1,
+    "revenue_per_booking": 130.1503719674658,
+    "total_revenue_20_episodes": 3586293.4995635203,
+    "total_bookings_20_episodes": 27555,
+    "training_episodes": 200,
+    "evaluation_episodes": 50,
+    "training_time_minutes": 7.695387701193492,
+    "final_epsilon": 0.022422929671430458,
+    "std_episode_revenue": 4100.641547268372,
+    "optimization": {
+        "sample_size": 50000,
+        "learning_rate": 0.002,
+        "batch_size": 256,
+        "epsilon_decay": 0.975,
+        "reward_scale": 0.001,
+        "mode": "EXTREME_FAST"
+    }
+}

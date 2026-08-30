@@ -1,0 +1,62 @@
+\relax 
+\citation{cybercrime2025}
+\citation{breiman2001random,chen2016xgboost}
+\citation{buczak2016survey}
+\citation{sharafaldin2018cicids}
+\citation{ferrag2020deep}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Network Intrusion Detection}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Deep Learning for NIDS}{1}{}\protected@file@percent }
+\citation{he2009imbalanced}
+\citation{chawla2002smote}
+\citation{lin2017focal}
+\citation{sharafaldin2018cicids}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Imbalanced Learning}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Tree Ensembles vs. Deep Learning}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Methodology}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Dataset}{2}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces CICIDS2017 Class Distribution (Top 10)}}{2}{}\protected@file@percent }
+\newlabel{tab:distribution}{{1}{2}{}{table.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Preprocessing Pipeline}{2}{}\protected@file@percent }
+\citation{lin2017focal}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Train/Validation/Test Split}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Model Architectures}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Evaluation Metrics}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Overall Performance}{4}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Overall Test Set Performance (N=335,095)}}{4}{}\protected@file@percent }
+\newlabel{tab:overall}{{2}{4}{}{table.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Performance comparison across three models. XGBoost achieves highest macro-F1 (85.55\%), outperforming CNN by 24 percentage points. Note: accuracy is misleading on imbalanced data.}}{4}{}\protected@file@percent }
+\newlabel{fig:comparison}{{1}{4}{}{figure.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Per-Class Performance Analysis}{4}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Per-Class F1 Scores Grouped by Sample Size Category}}{5}{}\protected@file@percent }
+\newlabel{tab:perclass}{{3}{5}{}{table.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}The 100-Sample Threshold Discovery}{5}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Per-class F1 score heatmap across 15 classes. Darker green indicates higher F1. CNN (right) shows red cells (0\% F1) on rare classes, while tree ensembles maintain performance.}}{5}{}\protected@file@percent }
+\newlabel{fig:heatmap}{{2}{5}{}{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces F1 score vs. training sample size reveals critical 100-sample threshold. Above 500 samples, all models perform similarly. Below 100 samples, tree ensembles maintain 60--70\% F1 (graceful degradation) while CNN drops to 0--40\% (catastrophic failure). This threshold explains the 24-point macro-F1 gap.}}{6}{}\protected@file@percent }
+\newlabel{fig:threshold}{{3}{6}{}{figure.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Deployment Analysis}{6}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Deployment Metrics Comparison}}{6}{}\protected@file@percent }
+\newlabel{tab:deployment}{{4}{6}{}{table.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Error Analysis}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Research Question Answers}{7}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Confusion matrices for all three models. XGBoost (center) shows strongest diagonal with minimal off-diagonal errors. CNN (right) shows scattered predictions, especially for rare classes (bottom rows). Darker purple indicates higher prediction counts.}}{8}{}\protected@file@percent }
+\newlabel{fig:confusion}{{4}{8}{}{figure.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Why Tree Ensembles Win: Sample Efficiency}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Limitations and Defenses}{8}{}\protected@file@percent }
+\citation{adversarial_trees}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion and Future Work}{9}{}\protected@file@percent }
+\bibcite{cybercrime2025}{1}
+\bibcite{buczak2016survey}{2}
+\bibcite{sharafaldin2018cicids}{3}
+\bibcite{ferrag2020deep}{4}
+\bibcite{he2009imbalanced}{5}
+\bibcite{chawla2002smote}{6}
+\bibcite{lin2017focal}{7}
+\bibcite{breiman2001random}{8}
+\bibcite{chen2016xgboost}{9}
+\bibcite{adversarial_trees}{10}
+\gdef \@abspage@last{10}
