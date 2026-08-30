@@ -1,10 +1,6 @@
 # AI-Driven Dynamic Pricing for Hotel Revenue Optimization
 
-**Student Name:** Mohammed Abdul Razzak Baig  
-**Student ID:** 25207938  
-**Programme:** MSc in Artificial Intelligence - Full Time  
-**Module:** H9AIDM - Artificial Intelligence Driven Decision Making  
-**Institution:** National College of Ireland
+**Student Name:** Hamza Arshad  
 
 ## Project Overview
 
@@ -310,11 +306,9 @@ No Jupyter notebooks required - all code runs as standalone Python scripts.
 
 ---## License
 
-This project is submitted as coursework for National College of Ireland and is subject to academic integrity policies.
+For academic and educational purposes only.
 
 ---
 
-**Mohammed Abdul Razzak Baig**  
-Student ID: 25207938  
+**Hamza Arshad**  
 MSc in Artificial Intelligence  
-National College of Ireland

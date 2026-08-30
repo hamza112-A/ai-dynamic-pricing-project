@@ -1,9 +1,6 @@
 # Network Intrusion Detection: Tree Ensembles vs Deep Learning
 
-**Author:** Mohammed Abdul Razzak Baig  
-**Student ID:** 25207938  
-**Course:** H9MLAI: Machine Learning  
-**Institution:** National College of Ireland  
+**Author:** Hamza Arshad  
 **Date:** August 2026
 
 ---
@@ -468,17 +465,12 @@ See IEEE_PAPER_FINAL.pdf for complete references.
 
 ## 📧 Contact
 
-**Mohammed Abdul Razzak Baig**  
-Student ID: 25207938  
-Email: x25207938@student.ncirl.ie  
-Course: H9MLAI: Machine Learning  
-National College of Ireland  
+**Hamza Arshad**
 
 ---
 
 ## 📄 License
 
-This project is submitted as part of MSc coursework at National College of Ireland.  
 For academic and educational purposes only.
 
 ---

@@ -2,8 +2,7 @@
 
 ## Project Information
 **Title:** Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data  
-**Student:** Mohammed Abdul Razzak Baig  
-**Student ID:** 25207938  
+**Student:** Hamza Arshad  
 **Duration:** 10-13 minutes  
 **Format:** Slide presentation with voiceover narration
 
@@ -58,7 +57,7 @@
 ### [0:00 - 0:35] SLIDE 1: Title Slide
 **[Pause 2 seconds to let slide appear]**
 
-"Hello everyone. My name is Mohammed Abdul Razzak Baig, student ID 25207938. Today, I'm presenting my Master of Science in Machine Learning project, titled 'Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data.'"
+"Hello everyone. My name is Hamza Arshad. Today, I'm presenting my Master of Science in Machine Learning project, titled 'Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data.'"
 
 **[Pause 2 seconds]**
 
@@ -582,7 +581,7 @@
 
 **[Pause 3 seconds]**
 
-"This has been Mohammed Abdul Razzak Baig, student ID 25207938, presenting my MSc Machine Learning project on comparing tree ensembles and deep learning for network intrusion detection."
+"This has been Hamza Arshad, presenting my MSc Machine Learning project on comparing tree ensembles and deep learning for network intrusion detection."
 
 **[Pause 2 seconds, smile if on camera]**
 
@@ -626,7 +625,7 @@ Watch the entire video and check:
 - ✅ Transitions between slides are smooth
 
 ### File Preparation
-- **File Name:** Use format like: `25207938_Mohammed_Baig_MSc_ML_Project_Presentation.mp4`
+- **File Name:** Use format like: `Hamza_Arshad_MSc_ML_Project_Presentation.mp4`
 - **File Format:** MP4 (H.264 codec, AAC audio) - most universally compatible
 - **Resolution:** 1080p minimum (1920×1080)
 - **File Size:** Check submission limits (usually 500 MB - 2 GB max)

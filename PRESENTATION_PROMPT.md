@@ -2,8 +2,7 @@
 
 ## Project Details
 **Title:** Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data  
-**Student:** Mohammed Abdul Razzak Baig  
-**Student ID:** 25207938  
+**Student:** Hamza Arshad  
 **Level:** MSc Machine Learning Project  
 **Duration:** 10-12 minutes (approximately 19 slides)
 
@@ -49,8 +48,7 @@
 **Content:**
 - **Title (Large, Bold):** Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data
 - **Subtitle:** MSc Machine Learning Project
-- **Student Name:** Mohammed Abdul Razzak Baig
-- **Student ID:** 25207938
+- **Student Name:** Hamza Arshad
 - **Date:** August 2026
 - **Institution Logo:** (Add your university logo if required)
 
@@ -715,8 +713,7 @@ XGBoost delivers best detection quality with practical deployment constraints. P
 Questions?
 
 **Contact Information:**
-Mohammed Abdul Razzak Baig  
-Student ID: 25207938  
+Hamza Arshad  
 MSc Machine Learning  
 [Your Email]  
 [Your LinkedIn/GitHub - optional]

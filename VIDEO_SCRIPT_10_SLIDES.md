@@ -1,7 +1,7 @@
 # 🎬 VIDEO SCRIPT - 10 SLIDES VERSION
 
 **Duration:** 10-12 minutes  
-**Student:** Mohammed Abdul Razzak Baig (25207938)  
+**Student:** Hamza Arshad  
 **Format:** Condensed, focused presentation
 
 ---
@@ -11,7 +11,7 @@
 ### [0:00 - 0:30] SLIDE 1: Title
 **[Pause 2 seconds]**
 
-"Hello everyone. My name is Mohammed Abdul Razzak Baig, student ID 25207938. Today I'm presenting my MSc Machine Learning project: Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data."
+"Hello everyone. My name is Hamza Arshad. Today I'm presenting my MSc Machine Learning project: Comparing Tree Ensembles and Deep Learning for Network Intrusion Detection on Imbalanced Data."
 
 **[Pause 1 second]**
 
@@ -289,7 +289,7 @@
 
 **[Pause 2 seconds]**
 
-"Thank you for your attention. I'm happy to answer any questions. Mohammed Abdul Razzak Baig, student ID 25207938."
+"Thank you for your attention. I'm happy to answer any questions. Hamza Arshad."
 
 **[Pause 2 seconds, wait before stopping recording]**
 
